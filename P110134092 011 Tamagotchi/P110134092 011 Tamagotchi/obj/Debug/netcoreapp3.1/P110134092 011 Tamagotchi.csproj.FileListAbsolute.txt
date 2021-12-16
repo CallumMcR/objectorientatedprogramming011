@@ -1,0 +1,13 @@
+G:\My Drive\Object Orientated Programming\Coursework\011\P110134092 011 Tamagotchi\P110134092 011 Tamagotchi\bin\Debug\netcoreapp3.1\P110134092 011 Tamagotchi.exe
+G:\My Drive\Object Orientated Programming\Coursework\011\P110134092 011 Tamagotchi\P110134092 011 Tamagotchi\bin\Debug\netcoreapp3.1\P110134092 011 Tamagotchi.deps.json
+G:\My Drive\Object Orientated Programming\Coursework\011\P110134092 011 Tamagotchi\P110134092 011 Tamagotchi\bin\Debug\netcoreapp3.1\P110134092 011 Tamagotchi.runtimeconfig.json
+G:\My Drive\Object Orientated Programming\Coursework\011\P110134092 011 Tamagotchi\P110134092 011 Tamagotchi\bin\Debug\netcoreapp3.1\P110134092 011 Tamagotchi.runtimeconfig.dev.json
+G:\My Drive\Object Orientated Programming\Coursework\011\P110134092 011 Tamagotchi\P110134092 011 Tamagotchi\bin\Debug\netcoreapp3.1\P110134092 011 Tamagotchi.dll
+G:\My Drive\Object Orientated Programming\Coursework\011\P110134092 011 Tamagotchi\P110134092 011 Tamagotchi\bin\Debug\netcoreapp3.1\P110134092 011 Tamagotchi.pdb
+G:\My Drive\Object Orientated Programming\Coursework\011\P110134092 011 Tamagotchi\P110134092 011 Tamagotchi\obj\Debug\netcoreapp3.1\P110134092 011 Tamagotchi.AssemblyInfoInputs.cache
+G:\My Drive\Object Orientated Programming\Coursework\011\P110134092 011 Tamagotchi\P110134092 011 Tamagotchi\obj\Debug\netcoreapp3.1\P110134092 011 Tamagotchi.AssemblyInfo.cs
+G:\My Drive\Object Orientated Programming\Coursework\011\P110134092 011 Tamagotchi\P110134092 011 Tamagotchi\obj\Debug\netcoreapp3.1\P110134092 011 Tamagotchi.csproj.CoreCompileInputs.cache
+G:\My Drive\Object Orientated Programming\Coursework\011\P110134092 011 Tamagotchi\P110134092 011 Tamagotchi\obj\Debug\netcoreapp3.1\P110134092 011 Tamagotchi.dll
+G:\My Drive\Object Orientated Programming\Coursework\011\P110134092 011 Tamagotchi\P110134092 011 Tamagotchi\obj\Debug\netcoreapp3.1\P110134092 011 Tamagotchi.pdb
+G:\My Drive\Object Orientated Programming\Coursework\011\P110134092 011 Tamagotchi\P110134092 011 Tamagotchi\obj\Debug\netcoreapp3.1\P110134092 011 Tamagotchi.genruntimeconfig.cache
+G:\My Drive\Object Orientated Programming\Coursework\011\P110134092 011 Tamagotchi\P110134092 011 Tamagotchi\obj\Debug\netcoreapp3.1\P110134092 011 Tamagotchi.csprojAssemblyReference.cache

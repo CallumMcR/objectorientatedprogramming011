@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P110134092 011 Tamagotchi/1.0.0": {
+        "runtime": {
+          "P110134092 011 Tamagotchi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P110134092 011 Tamagotchi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
