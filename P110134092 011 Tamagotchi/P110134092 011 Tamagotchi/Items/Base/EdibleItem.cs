@@ -32,7 +32,7 @@ namespace P110134092_011_Tamagotchi
             Thread startFeedingPet = new Thread(decreaseHunger);// Creates the thread 
 
             startFeedingPet.Start(animal);// Initiates the thread
-            animal.health = Math.Clamp(animal.health + healAmount, 0, 100); // Ensure that the health of the won't exceed 100, or go below 0 when we add health
+            animal.health = Math.Clamp(animal.health + healAmount, 0, 100); // Ensure that the health of the animal won't exceed 100, or go below 0 when health is added
             if (quantity > 1) // Check if we need to remove item
             {
                 quantity -= 1;
@@ -49,7 +49,7 @@ namespace P110134092_011_Tamagotchi
         public void feedOverTime(object selectedAnimal)
         {
             Animal animal = (Animal)selectedAnimal;// Convert the object to an animal class
-            for (int i = 0; i < hungerReplenishTime; i++) // Everytime the thread cycles back through we want to check that we ahven't gone pass the number of seconds
+            for (int i = 0; i < hungerReplenishTime; i++) // Everytime the thread cycles back through we want to check that we haven't gone past the number of seconds
             {
                 animal.hunger = Math.Clamp(animal.hunger - (hungerAmount / hungerReplenishTime), 0, 100);
                 Thread.Sleep(1000);
